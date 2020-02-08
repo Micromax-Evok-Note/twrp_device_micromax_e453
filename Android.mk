@@ -16,7 +16,7 @@
 
 ifneq ($(filter E453,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/Micromax/E453/
+LOCAL_PATH := device/micromax/E453/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
