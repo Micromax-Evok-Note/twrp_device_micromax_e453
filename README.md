@@ -1,5 +1,4 @@
 # Micromax Canvas Evok Note E453 - Mediatek MT6753
-==============
 
 ![Micromax Canvas Evok Note E453](http://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-evok-note-e453.jpg "Micromax Canvas Evok Note E453")
 
