@@ -1,4 +1,4 @@
- Micromax Canvas Evok Note E453 - Mediatek MT6753
+# Micromax Canvas Evok Note E453 - Mediatek MT6753
 
 ![Micromax Canvas Evok Note E453](http://fdn2.gsmarena.com/vv/bigpic/micromax-canvas-evok-note-e453.jpg "Micromax Canvas Evok Note E453")
 
@@ -17,7 +17,6 @@ Display | 5.5" 1920 x 1080 px DPI 403
 ---
 http://www.deviceinfohw.ru/devices/item.php?item=49929
 
-##Thanks
-
-@yEsPaP
-@rokibhasansagar
+## Thanks to:
+ * @yEsPaP
+ * @rokibhasansagar
