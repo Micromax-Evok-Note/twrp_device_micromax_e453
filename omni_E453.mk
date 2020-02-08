@@ -20,3 +20,7 @@ PRODUCT_NAME := omni_E453
 PRODUCT_BRAND := Micromax
 PRODUCT_MODEL := Micromax E453
 PRODUCT_MANUFACTURER := Micromax
+
+# fstab
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/recovery.fstab:recovery/root/etc/recovery.fstab
